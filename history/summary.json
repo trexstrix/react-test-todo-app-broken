@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tinyurl.com.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "45.21%",
-    "uptimeDay": "45.21%",
-    "uptimeWeek": "45.21%",
-    "uptimeMonth": "45.21%",
-    "uptimeYear": "45.21%",
+    "uptime": "21.26%",
+    "uptimeDay": "21.26%",
+    "uptimeWeek": "21.26%",
+    "uptimeMonth": "21.26%",
+    "uptimeYear": "21.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tinyurl.com.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "11.55%",
+    "uptimeDay": "11.55%",
+    "uptimeWeek": "11.55%",
+    "uptimeMonth": "11.55%",
+    "uptimeYear": "11.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-16": 0
+    }
   }
 ]
