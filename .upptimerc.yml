@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: docs
-    url: https://tinyurl.com/bp56zhnc
+    url: $DOCS_SITE
   - name: proxy
-    url: https://tinyurl.com/bdhxhsp9
+    url: $PROXY_SITE
 
 status-website:
   baseUrl: /react-test-todo-app-broken
