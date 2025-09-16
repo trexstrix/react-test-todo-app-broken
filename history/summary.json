@@ -1,42 +1,42 @@
 [
   {
     "name": "docs",
-    "url": "https://tinyurl.com/bp56zhnc",
-    "icon": "https://icons.duckduckgo.com/ip3/tinyurl.com.ico",
+    "url": "$DOCS_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "7.55%",
-    "uptimeDay": "7.55%",
-    "uptimeWeek": "7.55%",
-    "uptimeMonth": "7.55%",
-    "uptimeYear": "7.55%",
+    "uptime": "1.92%",
+    "uptimeDay": "1.92%",
+    "uptimeWeek": "1.92%",
+    "uptimeMonth": "1.92%",
+    "uptimeYear": "1.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 1
+      "2025-09-16": 4
     }
   },
   {
     "name": "proxy",
-    "url": "https://tinyurl.com/bdhxhsp9",
-    "icon": "https://icons.duckduckgo.com/ip3/tinyurl.com.ico",
+    "url": "$PROXY_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "2.34%",
-    "uptimeDay": "2.34%",
-    "uptimeWeek": "2.34%",
-    "uptimeMonth": "2.34%",
-    "uptimeYear": "2.34%",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 1
+      "2025-09-16": 3
     }
   }
 ]
