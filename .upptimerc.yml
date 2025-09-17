@@ -7,8 +7,14 @@ sites:
     url: $GOOGLE_SITE
   - name: docs
     url: $DOCS_SITE
+    expectedStatusCodes:
+      - 400
+      - 401
+      - 402
   - name: proxy
     url: $PROXY_SITE
+    expectedStatusCodes:
+      - 301
 
 
 status-website:
