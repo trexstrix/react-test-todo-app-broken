@@ -4,7 +4,7 @@ repo: react-test-todo-app-broken # The name of this repository
 
 sites:
   - name: Google
-    url: google.com
+    url: $GOOGLE_SITE
   - name: docs
     url: $DOCS_SITE
   - name: proxy
